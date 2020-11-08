@@ -8826,11 +8826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimab\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\dimab\\source\\repos\\WebApplication1\\test\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\dimab\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\dimab\\source\\repos\\WebApplication1\\test\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\dimab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimab\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\dimab\\source\\repos\\WebApplication1\\test\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dimab\\AppData\\Roaming\\NuGet\\NuGet.Config",
